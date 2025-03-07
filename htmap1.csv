@@ -1,0 +1,16 @@
+﻿District,Disease_Severity(%),Incidence(%),Yield_Loss(%),Temperature(C)
+Dinajpur,0.344,0.648,0.276,0.514
+Rangpur,0.416,0.7,0.352,0.59
+Bogura,0.689,0.826,0.619,0.843
+Rajshahi,0.206,0.37,0.198,0.333
+Pabna,0.852,0.925,0.872,0.949
+Jessore,0.1,0.3,0.13,0.23
+Khulna,1,0.982,1,1
+Barisal,0.286,0.482,0.247,0.438
+Comilla,0.563,0.741,0.585,0.691
+Sylhet,0.489,0.667,0.511,0.629
+Mymensingh,0.8,0.889,0.757,0.876
+Tangail,0.143,0.185,0.121,0.271
+Jamalpur,0.64,0.796,0.625,0.81
+Faridpur,0.314,0.519,0.267,0.505
+Chattogram,1,1,1,1
